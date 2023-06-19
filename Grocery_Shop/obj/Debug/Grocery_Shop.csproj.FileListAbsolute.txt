@@ -1,0 +1,8 @@
+C:\.Net\Grocery_Shop\Grocery_Shop\bin\Debug\Grocery_Shop.exe.config
+C:\.Net\Grocery_Shop\Grocery_Shop\bin\Debug\Grocery_Shop.exe
+C:\.Net\Grocery_Shop\Grocery_Shop\bin\Debug\Grocery_Shop.pdb
+C:\.Net\Grocery_Shop\Grocery_Shop\obj\Debug\Grocery_Shop.csproj.AssemblyReference.cache
+C:\.Net\Grocery_Shop\Grocery_Shop\obj\Debug\Grocery_Shop.csproj.SuggestedBindingRedirects.cache
+C:\.Net\Grocery_Shop\Grocery_Shop\obj\Debug\Grocery_Shop.csproj.CoreCompileInputs.cache
+C:\.Net\Grocery_Shop\Grocery_Shop\obj\Debug\Grocery_Shop.exe
+C:\.Net\Grocery_Shop\Grocery_Shop\obj\Debug\Grocery_Shop.pdb

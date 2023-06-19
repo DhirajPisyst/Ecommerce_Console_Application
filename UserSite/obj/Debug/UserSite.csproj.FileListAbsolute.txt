@@ -1,0 +1,8 @@
+C:\.Net\Grocery_Shop\UserSite\bin\Debug\UserSite.exe.config
+C:\.Net\Grocery_Shop\UserSite\bin\Debug\UserSite.exe
+C:\.Net\Grocery_Shop\UserSite\bin\Debug\UserSite.pdb
+C:\.Net\Grocery_Shop\UserSite\obj\Debug\UserSite.csproj.AssemblyReference.cache
+C:\.Net\Grocery_Shop\UserSite\obj\Debug\UserSite.csproj.SuggestedBindingRedirects.cache
+C:\.Net\Grocery_Shop\UserSite\obj\Debug\UserSite.csproj.CoreCompileInputs.cache
+C:\.Net\Grocery_Shop\UserSite\obj\Debug\UserSite.exe
+C:\.Net\Grocery_Shop\UserSite\obj\Debug\UserSite.pdb
